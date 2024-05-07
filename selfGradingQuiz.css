@@ -1,0 +1,24 @@
+body {
+    background-color: #ffe5ec;
+    text-align: left;
+}
+
+section {
+    margin-top: 10px;
+}
+
+div {
+    padding-left: 20px;
+}
+
+h1{
+    text-align: center;
+    font-size: 25px;
+    display: block;
+}
+
+h3 {
+    display: inline;
+    font-size: 15px;
+}
+
